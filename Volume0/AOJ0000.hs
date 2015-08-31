@@ -1,0 +1,1 @@
+main = mapM_ putStrLn [str | x <- [1..9], y <- [1..9], let str = show(x) ++ "x" ++ show(y) ++ "=" ++ show(x*y)]
