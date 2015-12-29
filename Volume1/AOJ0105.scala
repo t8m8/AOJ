@@ -2,7 +2,7 @@ import java.util.Scanner
 import scala.collection.mutable._
 import scala.math.Ordering.Implicits._
 
-object AOJ105 {
+object AOJ0105 {
 
 	def main(args: Array[String]): Unit = {
 		val in = new Scanner(System.in)
